@@ -3,10 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Data Mining Lab @ KWU # the website title (if blank, full name will be used instead)
-name: Data Mining Lab @ KWU
-  #first_name: You
-  #middle_name: R.
-  #last_name: Name
+first_name: You
+middle_name: R.
+last_name: Name
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Data Mining Lab led by Seung-Hyun Moon, Ph.D. in the Kwangwoon University,
