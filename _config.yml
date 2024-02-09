@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: Data Mining Lab # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Seung-Hyun
+middle_name: 
+last_name: Moon
+email: uramoon@kw.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Data Mining Lab led by Seung-Hyun Moon, Ph.D. in the Kwangwoon University,
   College of Artificial Intelligence and Convergence, School of Software.
@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false 
 
 # -----------------------------------------------------------------------------
 # Layout

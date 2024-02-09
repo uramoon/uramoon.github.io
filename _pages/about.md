@@ -2,7 +2,7 @@
 layout: about
 title: Data Mining Lab 
 permalink: /
-subtitle: School of Software, <a href='https://www.kw.ac.kr/en/'>Kwangwoon University</a>. 
+subtitle: 
 
 profile:
   align: right
