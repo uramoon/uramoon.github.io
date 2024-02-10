@@ -26,3 +26,7 @@ profile:
     Saebit 603<br />
     20 Kwangwoon-ro<br />
     Nowon-gu, Seoul, Korea
+
+---
+
+I studied computer science as an undergraduate and graduate student at Seoul National University. After completing my doctoral coursework, I worked as a research associate at Optus Investments, where I developed financial products and managed equity funds. Since September 2020, I have served as an assistant professor in the School of Software at Kwangwoon University.
