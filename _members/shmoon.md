@@ -23,9 +23,9 @@ profile:
   linkedin:
   orcid: 0000-0002-3922-3995
   address: >
-    School of Software<br />
+    Kwangwoon University<br />
     Saebit 603<br />
-    Kwangwoon-ro 20<br />
+    20 Kwangwoon-ro<br />
     Nowon-gu, Seoul, Korea
 ---
 
