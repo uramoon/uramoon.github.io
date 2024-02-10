@@ -1,6 +1,6 @@
 ---
 layout: about
-inline: true
+inline: false
 group: Faculty
 group_rank: 1
 
