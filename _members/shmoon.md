@@ -10,8 +10,7 @@ lastname: Moon
 publications: "author^=*Seung-Hyun Moon"
 
 teaser: >
-  I’m a Assistant Professor at the Kwangwoon University from September 2020.
-  Before, I have been a research associate at Optus Investments, where I developed financial products using machine learning techniques and managed equity funds.
+  I studied computer science as an undergraduate and graduate student at Seoul National University. After completing my doctoral coursework, I worked as a research associate at Optus Investments, where I developed financial products and managed equity funds. Since September 2020, I have served as an assistant professor in the School of Software at Kwangwoon University.
 
 profile:
   name: Prof. Seung-Hyun Moon
@@ -27,7 +26,3 @@ profile:
     Saebit 603<br />
     20 Kwangwoon-ro<br />
     Nowon-gu, Seoul, Korea
----
-
-I’m a Assistant Professor at the Kwangwoon University from September 2020.
-Before, I have been a research associate at Optus Investments, where I developed financial products using machine learning techniques and managed equity funds.
