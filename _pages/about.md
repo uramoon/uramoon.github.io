@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-The Data Mining Lab, led by [Seung-Hyun Moon, Ph.D.]({{ '/people/index.html#Seung-Hyun' | prepend: site.baseurl | prepend: site.url }}), is affiliated with the [School of Software ](https://www.kw.ac.kr/en/univ/electronic05_1.jsp){:target="\_blank"} within the [College of Artificial Intelligence and Convergence](https://www.kw.ac.kr/en/univ/Software_glance.jsp){:target="\blank"} at [Kwangwoon University](https://www.kw.ac.kr/en/){:target="\blank"}.
+The Data Mining Lab, led by [Prof. Seung-Hyun Moon]({{ '/people/index.html#Seung-Hyun' | prepend: site.baseurl | prepend: site.url }}), is affiliated with the [School of Software ](https://www.kw.ac.kr/en/univ/electronic05_1.jsp){:target="\_blank"} within the [College of Artificial Intelligence and Convergence](https://www.kw.ac.kr/en/univ/Software_glance.jsp){:target="\blank"} at [Kwangwoon University](https://www.kw.ac.kr/en/){:target="\blank"}.
 
 Our focus lies in the realm of data mining, where we employ machine learning and evolutionary computation techniques. In addition, we delve into research in data-driven financial engineering.
 
