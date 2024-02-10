@@ -1,6 +1,6 @@
 ---
 layout: about
-inline: false
+inline: true
 group: Faculty
 group_rank: 1
 
@@ -19,8 +19,8 @@ profile:
   align: right
   image: shmoon-profile.png
   email: uramoon@kw.ac.kr
-  twitter: 
-  linkedin: 
+  twitter:
+  linkedin:
   orcid: 0000-0002-3922-3995
   address: >
     School of Software<br />
