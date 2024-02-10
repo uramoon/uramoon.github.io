@@ -10,7 +10,8 @@ lastname: Moon
 publications: "author^=*Seung-Hyun Moon"
 
 teaser: >
-  I studied computer science as an undergraduate and graduate student at Seoul National University. After completing my doctoral coursework, I worked as a research associate at Optus Investments, where I developed financial products and managed equity funds. Since September 2020, I have served as an assistant professor in the School of Software at Kwangwoon University.
+  I’m a Assistant Professor at the Kwangwoon University from September 2020.
+  Before, I have been a research associate at Optus Investments, where I developed financial products and managed equity funds.
 
 profile:
   name: Prof. Seung-Hyun Moon
@@ -29,4 +30,9 @@ profile:
 
 ---
 
-I studied computer science as an undergraduate and graduate student at Seoul National University. After completing my doctoral coursework, I worked as a research associate at Optus Investments, where I developed financial products and managed equity funds. Since September 2020, I have served as an assistant professor in the School of Software at Kwangwoon University.
+I’m a Assistant Professor at the Kwangwoon University from September 2020.
+Before, I have been a research associate at Optus Investments, where I developed financial products and managed equity funds.
+
+## Short Bio
+
+I got my PhD from Department of Computer Science and Engineering at Seoul National University, under the supervision of Prof. Byung-Ro Moon. My doctoral dissertation focuses on machine learning techniques for short-range meteorological forecasts. Since September 2020, I have served as an assistant professor in the School of Software at Kwangwoon University.
