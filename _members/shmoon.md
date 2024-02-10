@@ -27,7 +27,6 @@ profile:
     Saebit 603<br />
     20 Kwangwoon-ro<br />
     Nowon-gu, Seoul, Korea
-
 ---
 
 I’m a Assistant Professor at the Kwangwoon University from September 2020.
