@@ -20,4 +20,4 @@ The Data Mining Lab, led by [Prof. Seung-Hyun Moon]({{ '/people' | prepend: site
 
 Our focus lies in the realm of data mining, where we employ machine learning and evolutionary computation techniques. In addition, we delve into research in data-driven financial engineering.
 
-We are also working on the development of an AI-driven decision support system for maritime search and rescue in collaboration with [OPTLAB](https://kwoptlab.kr){:target="\blank"}.
+We are also working on the development of an AI-based decision support system for maritime search and rescue in collaboration with [OPTLAB](https://kwoptlab.kr){:target="\blank"}.
