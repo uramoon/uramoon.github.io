@@ -1,7 +1,7 @@
 ---
 
 layout: about
-inline: true
+inline: false 
 group: student
 group_rank: 2
 team_frontpage: true
@@ -18,7 +18,7 @@ profile:
     name: Chaerim Park
     align: right
     image: default-profile.png
-    role: M.Sc. Studnet
+    role: M.Sc. Student
     email: dasapcr@naver.com
     address: >
         Kwangwoon University<br />
