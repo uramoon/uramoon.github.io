@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: true
-group: Students
+group: students
 group_rank: 2
 team_frontpage: true
 

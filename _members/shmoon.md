@@ -19,6 +19,7 @@ profile:
   align: right
   image: shmoon-profile.png
   email: uramoon@kw.ac.kr
+  github: uramoon
   orcid: 0000-0002-3922-3995
   address: >
     Kwangwoon University<br />

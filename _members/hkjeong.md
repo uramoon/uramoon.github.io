@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Alumni
+group: alumni
 group_rank: 4
 team_frontpage: true
 

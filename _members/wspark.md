@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: true
-group: Undergraduate Interns
+group: undergraduate interns
 group_rank: 3
 team_frontpage: true
 
@@ -11,7 +11,7 @@ lastname: Park
 publications: 'author^=\*Wooseong Park'
 
 teaser: >
-  I am developing artificial intelligence for games using reinforcement learning.
+  I am training a game agent using deep reinforcement learning.
 
 profile:
   name: Wooseong Park
