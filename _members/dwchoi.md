@@ -21,7 +21,7 @@ profile:
   role: Alumni
   email: chleodnr3@gmail.com
   address: >
-    Tmax Sunae Tower<br />
+    Tmax Sunae Tower
 ---
 
 Alumni

@@ -21,7 +21,7 @@ profile:
   role: Alumni
   email: gusrl1210@naver.com
   address: >
-    Korea University<br />
+    Korea University
 ---
 
 Alumni

@@ -21,7 +21,7 @@ profile:
   role: Alumni
   email: hskim101@snu.ac.kr
   address: >
-    Seoul National University<br />
+    Seoul National University
 ---
 
 Alumni

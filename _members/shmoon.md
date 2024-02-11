@@ -14,8 +14,8 @@ teaser: >
   Before, I have been a research associate at Optus Investments, where I developed financial products and managed equity funds.
 
 profile:
-  name: Prof. Seung-Hyun Moon
-  position: Head of the Data Mining Lab
+  name: Seung-Hyun Moon
+  position: Assistant Professor
   align: right
   image: shmoon-profile.png
   email: uramoon@kw.ac.kr
