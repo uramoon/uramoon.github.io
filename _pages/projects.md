@@ -1,8 +1,8 @@
 ---
 layout: page
 title: research
-permalink: /research/
-description: We conduct research on the following subjects.
+permalink: /projects/
+description: We conduct research on the following topics.
 nav: true
 nav_order: 3
 display_categories: [Data Mining, Application, Evolutionary Computation]
