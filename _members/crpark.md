@@ -19,7 +19,7 @@ teaser: >
 profile:
 name: B.Sc. Chaerim Park
 align: right
-image: default-profile.jpg
+image: default-profile.png
 role: M.Sc. Studnet
 email: dasapcr@naver.com
 address: >
