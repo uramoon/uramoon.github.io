@@ -12,8 +12,8 @@ lastname: Park
 publications: 'author^=\*Chaerim Park'
 
 teaser: >
-    M.Sc. Student at Data Mining Lab<br>
-    B.Sc. School of Software, Kwangwoon University
+    Present: M.Sc. Student at Data Mining Lab<br>
+    Spring 2024: B.Sc., School of Software, Kwangwoon University
 
 profile:
     name: Chaerim Park
@@ -29,5 +29,5 @@ profile:
 
 ---
 
-M.Sc. Student at Data Mining Lab<br>
-B.Sc. School of Software, Kwangwoon University
+Present: M.Sc. Student at Data Mining Lab<br>
+Spring 2024: B.Sc., School of Software, Kwangwoon University
