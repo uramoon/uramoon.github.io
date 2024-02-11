@@ -5,5 +5,5 @@ description: a multidisciplinary field involving mathematical finance and comput
 img: assets/img/fe.png
 redirect: https://en.wikipedia.org/wiki/Financial_engineering
 importance: 3
-category: Application
+category: Data Mining
 ---

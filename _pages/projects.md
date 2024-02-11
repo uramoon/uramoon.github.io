@@ -5,7 +5,7 @@ permalink: /projects/
 description: research topics by categories in alphabetical order
 nav: true
 nav_order: 3
-display_categories: [Artificial Intelligence, Application, Evolutionary Computation]
+display_categories: [Artificial Intelligence, Data Mining, Evolutionary Computation]
 horizontal: false
 ---
 
