@@ -5,5 +5,5 @@ description: a field of study in artificial intelligence (AI) that can learn fro
 img: assets/img/ml.png
 redirect: https://en.wikipedia.org/wiki/Machine_learning
 importance: 1
-category: Data Mining
+category: Artificial Intelligence
 ---
