@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description:
+description: at Kwangwoon University
 nav: true
 nav_order: 6
 ---
@@ -10,7 +10,7 @@ nav_order: 6
 ## Courses
 
 - Deep Learning Lab
-- Intro to Database Systems
+- Database Systems
 - Linear Algebra
-- Mining of Massive Datasets
+- Big Data Mining
 - Open Source Software

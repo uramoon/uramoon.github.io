@@ -2,7 +2,7 @@
 layout: page
 permalink: /people
 title: people
-description:
+description: members by group in alphabetical order.
 nav: true
 nav_rank: 1
 ---
