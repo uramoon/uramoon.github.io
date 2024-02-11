@@ -9,11 +9,14 @@ nav_rank: 1
 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
 {% for group in groups %}
+
 ## {{ group }}
+
 <div>
 
     {% assign members = site.members | sort: "lastname" | where: "group", group %}
     {% for member in members %}
+
 <p>
     <div class="card {% if member.inline == false %}hoverable{% endif %}">
         <div class="row no-gutters">
@@ -47,9 +50,6 @@ nav_rank: 1
                     {% if member.profile.github %}
                         <a href="https://github.com/{{ member.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
                     {% endif %}
-                    {% if member.profile.website %}
-                        <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
-                    {% endif %}
                     <p class="card-text">
                         <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small>
                     </p>
@@ -60,5 +60,4 @@ nav_rank: 1
 </p>
     {% endfor %}
 </div>
-<hr>
 {% endfor %}
