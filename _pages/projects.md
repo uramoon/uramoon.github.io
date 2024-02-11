@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: We conduct research on the following topics.
+description: research topics by categories in alphabetical order
 nav: true
 nav_order: 3
 display_categories: [Data Mining, Application, Evolutionary Computation]
