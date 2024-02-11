@@ -17,16 +17,16 @@ teaser: >
     I worked on language abstractions for secure programming with trusted execution environments.
 
 profile:
-name: B.Sc. Chaerim Park
-align: right
-image: default-profile.png
-role: M.Sc. Studnet
-email: dasapcr@naver.com
-address: >
-Kwangwoon University<br />
-602 Saebit<br />
-20 Kwangwoon-ro<br />
-Nowon-gu, Seoul, Korea
+    name: B.Sc. Chaerim Park
+    align: right
+    image: default-profile.png
+    role: M.Sc. Studnet
+    email: dasapcr@naver.com
+    address: >
+        Kwangwoon University<br />
+        602 Saebit<br />
+        20 Kwangwoon-ro<br />
+        Nowon-gu, Seoul, Korea
 
 ---
 
