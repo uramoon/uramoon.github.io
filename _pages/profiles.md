@@ -9,12 +9,10 @@ nav_rank: 1
 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
 {% for group in groups %}
-
 ## {{ group }}
 
     {% assign members = site.members | sort: "lastname" | where: "group", group %}
     {% for member in members %}
-
 <p>
     <div class="card {% if member.inline == false %}hoverable{% endif %}">
         <div class="row no-gutters">
