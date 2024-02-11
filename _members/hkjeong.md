@@ -24,4 +24,4 @@ profile:
     Korea University
 ---
 
-Alumni
+Alumnus
