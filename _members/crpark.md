@@ -6,18 +6,17 @@ group: student
 group_rank: 2
 team_frontpage: true
 
-title: B.Sc. Chaerim Park
-description: Profile of B.Sc. Chaerim Park, M.Sc. Student at Data Mining Lab.
+title: Chaerim Park
+description: Profile of Chaerim Park, M.Sc. Student at Data Mining Lab.
 lastname: Park
 publications: 'author^=\*Chaerim Park'
 
 teaser: >
-    My research interests include Programming Languages,
-    Information Flow Control and Trusted Execution Environments.
-    I worked on language abstractions for secure programming with trusted execution environments.
+    M.Sc. Student at Data Mining Lab<br>
+    B.Sc. School of Software, Kwangwoon University
 
 profile:
-    name: B.Sc. Chaerim Park
+    name: Chaerim Park
     align: right
     image: default-profile.png
     role: M.Sc. Studnet
@@ -30,6 +29,5 @@ profile:
 
 ---
 
-My research interests include Programming Languages,
-Information Flow Control and Trusted Execution Environments.
-I worked on language abstractions for secure programming with trusted execution environments.
+M.Sc. Student at Data Mining Lab<br>
+B.Sc. School of Software, Kwangwoon University
