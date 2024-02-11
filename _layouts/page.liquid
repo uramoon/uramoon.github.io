@@ -9,13 +9,6 @@ layout: default
 
   <article>
     {{ content }}
-
-    {% if page.publications %}
-      <h2>Publications</h2>
-      <div class="publications">
-        {% bibliography -f papers -q @*[{{page.publications}}]* %}
-      </div>
-    {% endif %}
   </article>
 
   {% if page.related_publications %}
