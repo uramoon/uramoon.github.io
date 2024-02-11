@@ -4,7 +4,7 @@ layout: about
 inline: true
 group: student
 group_rank: 2
-team_frontpage: false
+team_frontpage: true
 
 title: B.Sc. Chaerim Park
 description: Profile of B.Sc. Chaerim Park, M.Sc. Student at Data Mining Lab.
