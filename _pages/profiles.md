@@ -12,8 +12,6 @@ nav_rank: 1
 
 ## {{ group }}
 
-<div>
-
     {% assign members = site.members | sort: "lastname" | where: "group", group %}
     {% for member in members %}
 
@@ -59,5 +57,5 @@ nav_rank: 1
     </div>
 </p>
     {% endfor %}
-</div>
+<hr>
 {% endfor %}

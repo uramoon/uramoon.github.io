@@ -10,7 +10,7 @@ lastname: Moon
 publications: "author^=*Seung-Hyun Moon"
 
 teaser: >
-  I’m a Assistant Professor at Kwangwoon University from September 2020.
+  I’m an Assistant Professor at Kwangwoon University from September 2020.
   Before, I have been a research associate at Optus Investments, where I developed financial products and managed equity funds.
 
 profile:
@@ -28,7 +28,7 @@ profile:
     Nowon-gu, Seoul, Korea
 ---
 
-I’m a Assistant Professor at Kwangwoon University from September 2020.
+I’m an Assistant Professor at Kwangwoon University from September 2020.
 Before, I have been a research associate at Optus Investments, where I developed financial products and managed equity funds.
 
 ## Short Bio

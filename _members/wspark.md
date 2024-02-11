@@ -11,7 +11,7 @@ lastname: Park
 publications: 'author^=\*Wooseong Park'
 
 teaser: >
-  I am training a game agent using deep reinforcement learning.
+  I'm training a game agent using deep reinforcement learning.
 
 profile:
   name: Wooseong Park
