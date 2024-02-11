@@ -11,6 +11,11 @@ description: Profile of B.Sc. Chaerim Park, M.Sc. Student at Data Mining Lab.
 lastname: Park
 publications: 'author^=\*Chaerim Park'
 
+teaser: >
+    My research interests include Programming Languages,
+    Information Flow Control and Trusted Execution Environments.
+    I worked on language abstractions for secure programming with trusted execution environments.
+
 profile:
 name: B.Sc. Chaerim Park
 align: right
@@ -24,3 +29,7 @@ Kwangwoon University<br />
 Nowon-gu, Seoul, Korea
 
 ---
+
+My research interests include Programming Languages,
+Information Flow Control and Trusted Execution Environments.
+I worked on language abstractions for secure programming with trusted execution environments.
