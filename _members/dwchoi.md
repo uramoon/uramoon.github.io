@@ -1,7 +1,6 @@
 ---
-
 layout: about
-inline: false 
+inline: true
 group: alumni
 group_rank: 4
 team_frontpage: true
@@ -12,17 +11,17 @@ lastname: Choi
 publications: 'author^=\*Daewook Choi'
 
 teaser: >
-    <em>previously:</em> Undergraduate Intern
-    <em>now:</em> Data Engineer at TmaxBI
+  <em>previously:</em> Undergraduate Intern<br>
+  <em>now:</em> Data Engineer at TmaxBI
 
 profile:
-    name: Daewook Choi
-    align: right
-    image: dwchoi-profile.png
-    role: Alumni
-    email: chleodnr3@gmail.com
-    address: >
-        Tmax Sunae Tower<br />
+  name: Daewook Choi
+  align: right
+  image: dwchoi-profile.png
+  role: Alumni
+  email: chleodnr3@gmail.com
+  address: >
+    Tmax Sunae Tower<br />
 ---
 
 Alumni

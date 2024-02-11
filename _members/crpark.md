@@ -1,8 +1,7 @@
 ---
-
 layout: about
-inline: false 
-group: student
+inline: true
+group: Students
 group_rank: 2
 team_frontpage: true
 
@@ -12,20 +11,19 @@ lastname: Park
 publications: 'author^=\*Chaerim Park'
 
 teaser: >
-    M.Sc. Student
+  M.Sc. Student
 
 profile:
-    name: Chaerim Park
-    align: right
-    image: default-profile.png
-    role: M.Sc. Student
-    email: dasapcr@naver.com
-    address: >
-        Kwangwoon University<br />
-        602 Saebit<br />
-        20 Kwangwoon-ro<br />
-        Nowon-gu, Seoul, Korea
-
+  name: Chaerim Park
+  align: right
+  image: default-profile.png
+  role: M.Sc. Student
+  email: dasapcr@naver.com
+  address: >
+    Kwangwoon University<br />
+    602 Saebit<br />
+    20 Kwangwoon-ro<br />
+    Nowon-gu, Seoul, Korea
 ---
 
 M.Sc. Student

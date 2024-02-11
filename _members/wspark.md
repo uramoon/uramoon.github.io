@@ -1,8 +1,7 @@
 ---
-
 layout: about
-inline: false 
-group: undergraduate intern
+inline: true
+group: Undergraduate Interns
 group_rank: 3
 team_frontpage: true
 
@@ -12,20 +11,19 @@ lastname: Park
 publications: 'author^=\*Wooseong Park'
 
 teaser: >
-    Undergraduate Intern
+  I am developing artificial intelligence for games using reinforcement learning.
 
 profile:
-    name: Wooseong Park
-    align: right
-    image: default-profile.png
-    role: Undergraduate Intern
-    email: helpingstar@kw.ac.kr
-    address: >
-        Kwangwoon University<br />
-        602 Saebit<br />
-        20 Kwangwoon-ro<br />
-        Nowon-gu, Seoul, Korea
-
+  name: Wooseong Park
+  align: right
+  image: default-profile.png
+  role: Undergraduate Intern
+  email: helpingstar@kw.ac.kr
+  address: >
+    Kwangwoon University<br />
+    602 Saebit<br />
+    20 Kwangwoon-ro<br />
+    Nowon-gu, Seoul, Korea
 ---
 
-Undergraduate Intern
+I am developing artificial intelligence for games using reinforcement learning.
