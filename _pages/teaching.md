@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching Experience
+## teaching experience
 
 - Deep Learning Lab
 - Database 
