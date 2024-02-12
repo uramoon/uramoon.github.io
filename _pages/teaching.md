@@ -9,8 +9,8 @@ nav_order: 6
 
 ## teaching experience
 
-- Deep Learning Lab
-- Database 
-- Linear Algebra
 - Big Data Processing and Its Applications
+- Database
+- Deep Learning Lab
+- Linear Algebra
 - Open Source Software Development
