@@ -7,10 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-## Courses
+## Teaching Experience
 
 - Deep Learning Lab
-- Database Systems
+- Database 
 - Linear Algebra
-- Big Data Mining
-- Open Source Software
+- Big Data Processing and Its Applications
+- Open Source Software Development
