@@ -18,7 +18,7 @@ profile:
   align: right
   image: default-profile.png
   role: M.Sc. Student
-  email: dasapcr@naver.com
+  email: dasapcr@kw.ac.kr
   address: >
     Kwangwoon University<br />
     602 Saebit<br />
