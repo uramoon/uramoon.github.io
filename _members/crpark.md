@@ -16,9 +16,9 @@ teaser: >
 profile:
   name: Chaerim Park
   align: right
-  image: default-profile.png
+  image: crpark-profile.png
   role: M.Sc. Student
-  email: dasapcr@naver.com
+  email: dasapcr@kw.ac.kr
   address: >
     Kwangwoon University<br />
     602 Saebit<br />
