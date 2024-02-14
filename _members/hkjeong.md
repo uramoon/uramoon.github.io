@@ -24,4 +24,5 @@ profile:
     Korea University
 ---
 
-Alumnus
+<em>previously:</em> Undergraduate Intern<br>
+<em>now:</em> Graduate Student at Korea University
