@@ -20,6 +20,7 @@ profile:
   image: hkjeong-profile.png
   role: Alumni
   email: gusrl1210@naver.com
+  github: Hyeon-kki
   address: >
     Korea University
 ---
