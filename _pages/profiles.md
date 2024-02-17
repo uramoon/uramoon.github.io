@@ -18,7 +18,7 @@ nav_rank: 1
 <p>
 <div id="{{member.profile.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8">
-        <img style="float: right; width: 42%; padding-left: 20px;" src="{{ member.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{member.profile.name}}">
+        <img style="float: right; width: 30%; padding-left: 20px;" src="{{ member.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{member.profile.name}}">
         <h4>{{member.profile.name}}{% if member.profile.degrees %}, {{member.profile.degrees}} {% endif %}</h4> 
         {{member.profile.position}} <br>
         <i class="fa fa-envelope"></i> <em>{{member.profile.email}}</em> <br>
@@ -34,11 +34,10 @@ nav_rank: 1
         {% if person.orcid %}
           <i class="ai ai-orcid"></i> <a href="http://{{person.orcid}}" target="_blank"> {{person.orcid}}</a> <br>
         {% endif %}
-        <p class="text-justify">{{member.teaser | markdownify}}</p>
+        <p class="text-justify"><a href={{member | prepend: '/members/' | prepend: site.baseurl | prepend: site.url}}> {{member.teaser | markdownify}}</p>
     </div>
 </div>
 <hr>
 </p>
     {% endfor %}
-<hr>
 {% endfor %}
