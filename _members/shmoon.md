@@ -4,7 +4,7 @@ inline: false
 group: faculty
 group_rank: 1
 
-title: Ph.D. Seung-Hyun Moon
+title: Seung-Hyun Moon
 description: Profile of Ph.D. Seung-Hyun Moon, Head of the Data Mining Lab.
 lastname: Moon
 publications: "author^=*Moon"
