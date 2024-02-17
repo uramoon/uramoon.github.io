@@ -34,7 +34,7 @@ nav_rank: 1
         <p class="text-justify"><a href="{{member.url}}" style="text-decoration: none; color: inherit;">{{member.teaser | markdownify}}</a></p>
     </div>
 </div>
-<hr>
 </p>
     {% endfor %}
+<hr>
 {% endfor %}
