@@ -16,45 +16,31 @@ nav_rank: 1
     {% for member in members %}
 
 <p>
-    <div class="card {% if member.inline == false %}hoverable{% endif %}">
-        <div class="row no-gutters">
-            <div class="col-sm-4 col-md-3">
-                <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="card-img img-fluid" alt="{{ member.profile.name }}" />
-            </div>
-            <div class="team col-sm-8 col-md-9">
-                <div class="card-body">
-                    {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %}
-                    <h5 class="card-title">{{ member.profile.name }}</h5>
-                    {% if member.profile.position %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.position }}</h6>{% endif %}
-                    <p class="card-text">
-                        {{ member.teaser }}
-                    </p>
-                    {% if member.inline == false %}</a>{% endif %}
-                    {% if member.profile.email %}
-                        <a href="mailto:{{ member.profile.email }}" class="card-link"><i class="fas fa-envelope"></i></a>
-                    {% endif %}
-                    {% if member.profile.phone %}
-                        <a href="tel:{{ member.profile.phone }}" class="card-link"><i class="fas fa-phone"></i></a>
-                    {% endif %}
-                    {% if member.profile.linkedin %}
-                        <a href="https://linkedin.com/in/{{ member.profile.linkedin }}/" class="card-link" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    {% endif %}
-                    {% if member.profile.orcid %}
-                        <a href="https://orcid.org/{{ member.profile.orcid }}" class="card-link" target="_blank"><i class="fab fa-orcid"></i></a>
-                    {% endif %}
-                    {% if member.profile.twitter %}
-                        <a href="https://twitter.com/{{ member.profile.twitter }}" class="card-link" target="_blank"><i class="fab fa-twitter"></i></a>
-                    {% endif %}
-                    {% if member.profile.github %}
-                        <a href="https://github.com/{{ member.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
-                    {% endif %}
-                    <p class="card-text">
-                        <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small>
-                    </p>
-                </div>
-            </div>
-        </div>
+<div id = "{{member.profile.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <img style="float: right; width: 42%; padding-left: 20px;" src="{{ member.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{member.profile.name}}">
+    <div>
+        <h4>{{member.profile.name}}{% if member.profile.degrees %}, {{member.profile.degrees}} {% endif %}</h4> 
+        {{member.profile.position}} <br>
+        <i class="fa fa-envelope"></i> <em>{{member.profile.email}}</em> <br>
+        {% if person.website %}
+          <i class="fa fa-globe"></i> <a href= "{{member.url}}" target="_blank">{{member.url}}</a> <br>
+        {% endif %}
+        {% if member.profile.github %}
+          <i class="fab fa-github"></i> <a href= "https://github.com/{{person.github}}" target="_blank"> {{person.github}} </a> <br>
+        {% endif %}
+        {% if member.profile.scholar %}
+          <i class="ai ai-google-scholar"></i> <a href= "http://scholar.google.com/citations?user={{person.scholar}}" target="_blank"> Scholar Citations </a> <br>
+        {% endif %}
+        {% if person.orcid %}
+          <i class="ai ai-orcid"></i> <a href="http://{{person.orcid}}" target="_blank"> {{person.orcid}}</a> <br>
+        {% endif %}
+
     </div>
+    <div class="col-sm-8">
+        <p class="text-justify">{{member.teaser | markdownify}}</p>
+    </div>
+</div>
+<hr>
 </p>
     {% endfor %}
 <hr>
