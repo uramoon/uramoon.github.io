@@ -34,9 +34,7 @@ nav_rank: 1
         {% if member.profile.orcid %}
           <i class="ai ai-orcid"></i> <a href="http://{{member.profile.orcid}}" target="_blank"> {{member.profile.orcid}}</a> <br>
         {% endif %}
- <a href="{{member.url}}">
         <p class="text-justify">{{member.teaser | markdownify}</p>
-</a>
     </div>
 </div>
 <hr>
