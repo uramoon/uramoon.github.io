@@ -2,7 +2,7 @@
 layout: page
 permalink: /people
 title: people
-description: members by group in the order of entry into the lab.
+description: members by group in chronological order.
 nav: true
 nav_rank: 1
 ---
