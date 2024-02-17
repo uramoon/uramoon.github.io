@@ -32,6 +32,6 @@ profile:
 I’m an Assistant Professor at Kwangwoon University from September 2020.
 Before, I have been a research associate at Optus Investments, where I developed financial products and managed equity funds.
 
-## Short Bio
+## short bio
 
 I got my PhD from Department of Electrical Engineering and Computer Science at Seoul National University, under the supervision of Prof. Byung-Ro Moon. My doctoral dissertation focuses on machine learning techniques for short-range meteorological forecasts. Since September 2020, I have served as an assistant professor in the School of Software at Kwangwoon University.
