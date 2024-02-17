@@ -18,7 +18,7 @@ profile:
   align: right
   image: default-profile.png
   role: Undergraduate Intern
-  email: helpingstar@kw.ac.kr
+  email: helpingstar (at) kw.ac.kr
   address: >
     Kwangwoon University<br />
     602 Saebit<br />

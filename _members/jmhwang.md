@@ -18,7 +18,7 @@ profile:
   align: right
   image: default-profile.png
   role: Undergraduate Intern
-  email: hwangjello@naver.com
+  email: hwangjello (at) naver.com
   address: >
     Kwangwoon University<br />
     602 Saebit<br />

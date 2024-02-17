@@ -19,7 +19,7 @@ profile:
   align: right
   image: dwchoi-profile.png
   role: Alumni
-  email: chleodnr3@gmail.com
+  email: chleodnr3 (at) gmail.com
   address: >
     Tmax Sunae Tower
 ---

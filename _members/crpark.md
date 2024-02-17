@@ -18,7 +18,7 @@ profile:
   align: right
   image: crpark-profile.png
   role: M.Sc. Student
-  email: dasapcr@kw.ac.kr
+  email: dasapcr (at) kw.ac.kr
   address: >
     Kwangwoon University<br />
     602 Saebit<br />

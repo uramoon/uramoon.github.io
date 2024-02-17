@@ -22,19 +22,19 @@ nav_rank: 1
         <h4>{{member.profile.name}}{% if member.profile.degrees %}, {{member.profile.degrees}} {% endif %}</h4> 
         {{member.profile.position}} <br>
         <i class="fa fa-envelope"></i> <em>{{member.profile.email}}</em> <br>
-        {% if person.website %}
+        {% if member.url %}
           <i class="fa fa-globe"></i> <a href= "{{member.url}}" target="_blank">{{member.url}}</a> <br>
         {% endif %}
         {% if member.profile.github %}
-          <i class="fab fa-github"></i> <a href= "https://github.com/{{person.github}}" target="_blank"> {{person.github}} </a> <br>
+          <i class="fab fa-github"></i> <a href= "https://github.com/{{member.profile.github}}" target="_blank"> {{member.profile.github}} </a> <br>
         {% endif %}
         {% if member.profile.scholar %}
-          <i class="ai ai-google-scholar"></i> <a href= "http://scholar.google.com/citations?user={{person.scholar}}" target="_blank"> Scholar Citations </a> <br>
+          <i class="ai ai-google-scholar"></i> <a href= "http://scholar.google.com/citations?user={{member.profile.scholar}}" target="_blank"> Scholar Citations </a> <br>
         {% endif %}
-        {% if person.orcid %}
-          <i class="ai ai-orcid"></i> <a href="http://{{person.orcid}}" target="_blank"> {{person.orcid}}</a> <br>
+        {% if member.profile.orcid %}
+          <i class="ai ai-orcid"></i> <a href="http://{{member.profile.orcid}}" target="_blank"> {{member.profile.orcid}}</a> <br>
         {% endif %}
-        <p class="text-justify"><a href={{member | prepend: '/members/' | prepend: site.baseurl | prepend: site.url}}> {{member.teaser | markdownify}}</p>
+        <p class="text-justify"><a href={{member | prepend: '/members/' | prepend: site.baseurl | prepend: site.url}}> {{member.teaser | markdownify}}</a></p>
     </div>
 </div>
 <hr>

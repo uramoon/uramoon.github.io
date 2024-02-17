@@ -18,7 +18,8 @@ profile:
   position: Assistant Professor
   align: right
   image: shmoon-profile.png
-  email: uramoon@kw.ac.kr
+  email: uramoon (at) kw.ac.kr
+  scholar: AVfT27sAAAAJ&hl
   orcid: 0000-0002-3922-3995
   address: >
     Kwangwoon University<br />
