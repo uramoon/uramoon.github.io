@@ -12,7 +12,7 @@ nav_rank: 1
 
 ## {{ group }}
 
-    {% assign members = site.members | sort: "lastname" | where: "group", group %}
+    {% assign members = site.members | sort: "order" | where: "group", group %}
     {% for member in members %}
 
 <p>
@@ -31,7 +31,7 @@ nav_rank: 1
         {% if member.profile.orcid %}
           <i class="ai ai-orcid"></i> <a href="http://{{member.profile.orcid}}" target="_blank"> {{member.profile.orcid}}</a> <br>
         {% endif %}
-        <p class="text-justify"><a href="{{member.url}}">{{member.teaser | markdownify}}</a></p>
+        <p class="text-justify"><a href="{{member.url}}" style="text-decoration: none; color: inherit;">{{member.teaser | markdownify}}</a></p>
     </div>
 </div>
 <hr>

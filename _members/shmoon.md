@@ -8,6 +8,7 @@ title: Ph.D. Seung-Hyun Moon
 description: Profile of Ph.D. Seung-Hyun Moon, Head of the Data Mining Lab.
 lastname: Moon
 publications: "author^=*Moon"
+order: 1
 
 teaser: >
   I’m an Assistant Professor at Kwangwoon University from September 2020.

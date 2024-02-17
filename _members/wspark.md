@@ -9,6 +9,7 @@ title: Wooseong Park
 description: Profile of Wooseong Park, Undergraduate Intern at Data Mining Lab.
 lastname: Park
 publications: 'author^=\*Wooseong Park'
+order: 7
 
 teaser: >
   I'm training a game agent using deep reinforcement learning.

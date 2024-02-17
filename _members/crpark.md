@@ -9,6 +9,7 @@ title: Chaerim Park
 description: Profile of Chaerim Park, M.Sc. Student at Data Mining Lab.
 lastname: Park
 publications: 'author^=\*Chaerim Park'
+order: 6
 
 teaser: >
   M.Sc. Student

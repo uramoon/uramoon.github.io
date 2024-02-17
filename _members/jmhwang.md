@@ -9,6 +9,7 @@ title: Jeongmook Hwang
 description: Profile of Jeongmook Hwang, Undergraduate Intern at Data Mining Lab.
 lastname: Hwang
 publications: 'author^=\*Jeongmook Hwang'
+order: 5
 
 teaser: >
   Undergraduate Intern

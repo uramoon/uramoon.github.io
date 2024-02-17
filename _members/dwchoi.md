@@ -9,6 +9,7 @@ title: Daewook Choi
 description: Profile of Daewook Choi, Undergraduate Intern at Data Mining Lab.
 lastname: Choi
 publications: 'author^=\*Daewook Choi'
+order: 2
 
 teaser: >
   <em>previously:</em> Undergraduate Intern<br>

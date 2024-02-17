@@ -9,6 +9,7 @@ title: Hyeongseok Kim
 description: Profile of Hyeongseok Kim, Undergraduate Intern at Data Mining Lab.
 lastname: Kim
 publications: 'author^=\*Hyeongseok Kim'
+order: 4
 
 teaser: >
   <em>previously:</em> Undergraduate Intern<br>
