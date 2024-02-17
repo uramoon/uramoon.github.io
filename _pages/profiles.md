@@ -16,9 +16,9 @@ nav_rank: 1
     {% for member in members %}
 
 <p>
-<div id = "{{member.profile.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-    <img style="float: right; width: 42%; padding-left: 20px;" src="{{ member.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{member.profile.name}}">
-    <div>
+<div id="{{member.profile.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-8">
+        <img style="float: right; width: 42%; padding-left: 20px;" src="{{ member.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{member.profile.name}}">
         <h4>{{member.profile.name}}{% if member.profile.degrees %}, {{member.profile.degrees}} {% endif %}</h4> 
         {{member.profile.position}} <br>
         <i class="fa fa-envelope"></i> <em>{{member.profile.email}}</em> <br>
@@ -34,9 +34,6 @@ nav_rank: 1
         {% if person.orcid %}
           <i class="ai ai-orcid"></i> <a href="http://{{person.orcid}}" target="_blank"> {{person.orcid}}</a> <br>
         {% endif %}
-
-    </div>
-    <div class="col-sm-8">
         <p class="text-justify">{{member.teaser | markdownify}}</p>
     </div>
 </div>
