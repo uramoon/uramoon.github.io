@@ -18,7 +18,7 @@ nav_rank: 1
 <p>
 <div id="{{member.profile.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8">
-       {% if member.inline == false %}<a href="{{member.url}}" style="text-decoration: none; color: inherit;">{% endif %} <img style="float: right; width: 40%; padding-left: 20px;" src="{{ member.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{member.profile.name}}"> {% if member.inline == false %}</a>{% endif %}
+       {% if member.inline == false %}<a href="{{member.url}}" style="text-decoration: none; color: inherit;">{% endif %} <img style="float: right; width: 42%; padding-left: 20px;" src="{{ member.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{member.profile.name}}"> {% if member.inline == false %}</a>{% endif %}
         <h4>{{member.profile.name}}{% if member.profile.degrees %}, {{member.profile.degrees}} {% endif %}</h4> 
         {{member.profile.position}} <br>
         <i class="fa fa-envelope"></i> <em>{{member.profile.email}}</em> <br>
