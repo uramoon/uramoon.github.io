@@ -22,9 +22,6 @@ nav_rank: 1
         <h4>{{member.profile.name}}{% if member.profile.degrees %}, {{member.profile.degrees}} {% endif %}</h4> 
         {{member.profile.position}} <br>
         <i class="fa fa-envelope"></i> <em>{{member.profile.email}}</em> <br>
-        {% if member.profile.linkedin %}
-          <i class="fab fa-linkedin-in"></i> <a href= "https://linkedin.com/in/{{member.profile.linkedin}}" target="_blank"> {{member.profile.linkedin}} </a> <br>
-        {% endif %}
         {% if member.profile.github %}
           <i class="fab fa-github"></i> <a href= "https://github.com/{{member.profile.github}}" target="_blank"> {{member.profile.github}} </a> <br>
         {% endif %}
