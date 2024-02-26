@@ -31,4 +31,4 @@ profile:
     Nowon-gu, Seoul, Korea
 ---
 
-I am developing artificial intelligence for games using reinforcement learning.
+I am interested in RL, especially Game AI. I enjoy implementing the game as a RL environment and clearing it with AI.
