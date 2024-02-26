@@ -12,7 +12,7 @@ publications: 'author^=\*Wooseong Park'
 order: 7
 
 teaser: >
-  I am interested in RL, especially Game AI. I enjoy implementing the game as a RL environment and clearing it with AI.
+  I am interested in RL, especially Game AI. I enjoy implementing the game as an RL environment and clearing it with AI.
 
 profile:
   name: Wooseong Park
