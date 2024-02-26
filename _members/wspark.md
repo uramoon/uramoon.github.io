@@ -23,7 +23,6 @@ profile:
   website: https://helpingstar.github.io/
   github: helpingstar
   linkedin: helpingstar
-	
   address: >
     Kwangwoon University<br />
     602 Saebit<br />
