@@ -12,7 +12,7 @@ publications: 'author^=\*Wooseong Park'
 order: 7
 
 teaser: >
-  I'm training a game agent using deep reinforcement learning.
+  I am interested in RL, especially Game AI. I enjoy implementing the game as a RL environment and clearing it with AI.
 
 profile:
   name: Wooseong Park
@@ -20,6 +20,10 @@ profile:
   image: default-profile.png
   role: Undergraduate Intern
   email: helpingstar (at) kw.ac.kr
+  website: https://helpingstar.github.io/
+  github: helpingstar
+  linkedin: helpingstar
+	
   address: >
     Kwangwoon University<br />
     602 Saebit<br />
