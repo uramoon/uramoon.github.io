@@ -12,7 +12,7 @@ publications: 'author^=\*Jaeyoon Shim'
 order: 8
 
 teaser: >
-  I am interested in financial engineering.
+  I'm interested in financial engineering.
 
 profile:
   name: Jaeyoon Shim
