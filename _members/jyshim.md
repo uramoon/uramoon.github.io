@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: true
-group: undergraduate interns
-group_rank: 3
+group: alumni
+group_rank: 4
 team_frontpage: true
 
 title: Jaeyoon Shim
@@ -12,19 +12,19 @@ publications: 'author^=\*Jaeyoon Shim'
 order: 8
 
 teaser: >
-  I'm interested in financial engineering.
+    <em>previously:</em> Undergraduate Intern<br>
+    <em>now:</em> Kyobo Securities
+
 
 profile:
   name: Jaeyoon Shim
   align: right
   image: default-profile.png
-  role: Undergraduate Intern
+  role: Alumni
   email: spqjfgogo (at) naver.com
   address: >
-    Kwangwoon University<br />
-    602 Saebit<br />
-    20 Kwangwoon-ro<br />
-    Nowon-gu, Seoul, Korea
+    Kyobo Securities
 ---
 
-I am interested in financial engineering.
+<em>previously:</em> Undergraduate Intern<br>
+<em>now:</em> Kyobo Securities

@@ -2,17 +2,17 @@
 layout: about
 inline: true
 group: undergraduate interns
-group_rank: 3
+group_rank: 2
 team_frontpage: true
 
 title: Jeongmook Hwang
 description: Profile of Jeongmook Hwang, Undergraduate Intern at Data Mining Lab.
 lastname: Hwang
 publications: 'author^=\*Jeongmook Hwang'
-order: 5
+order: 6
 
 teaser: >
-  Undergraduate Intern
+    M.Sc. Student
 
 profile:
   name: Jeongmook Hwang
