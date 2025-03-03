@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: true
-group: undergraduate interns
+group: students
 group_rank: 2
 team_frontpage: true
 
@@ -27,4 +27,4 @@ profile:
     Nowon-gu, Seoul, Korea
 ---
 
-Undergraduate Intern
+M.Sc. Student

@@ -13,7 +13,7 @@ order: 8
 
 teaser: >
     <em>previously:</em> Undergraduate Intern<br>
-    <em>now:</em> Kyobo Securities
+    <em>now:</em> Software Developer at Kyobo Securities
 
 
 profile:
@@ -27,4 +27,4 @@ profile:
 ---
 
 <em>previously:</em> Undergraduate Intern<br>
-<em>now:</em> Kyobo Securities
+<em>now:</em> Software Developer at Kyobo Securities
