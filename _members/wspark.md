@@ -2,7 +2,7 @@
 layout: about
 inline: true
 group: undergraduate interns
-group_rank: 3
+group_rank: 4
 team_frontpage: true
 
 title: Wooseong Park
@@ -12,7 +12,8 @@ publications: 'author^=\*Wooseong Park'
 order: 7
 
 teaser: >
-  I'm interested in RL, especially Game AI. I enjoy implementing the game as an RL environment and clearing it with AI.
+	<em>previously:</em> Undergraduate Intern<br>
+	<em>now:</em> Trainee at Software Maestro
 
 profile:
   name: Wooseong Park
@@ -24,10 +25,8 @@ profile:
   github: helpingstar
   linkedin: helpingstar
   address: >
-    Kwangwoon University<br />
-    602 Saebit<br />
-    20 Kwangwoon-ro<br />
-    Nowon-gu, Seoul, Korea
+	Software Maestro
 ---
 
-I'm interested in RL, especially Game AI. I enjoy implementing the game as a RL environment and clearing it with AI.
+<em>previously:</em> Undergraduate Intern<br>
+<em>now:</em> Trainee at Software Maestro
