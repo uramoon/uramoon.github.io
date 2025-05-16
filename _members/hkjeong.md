@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: alumni
-group_rank: 3
+group_rank: 4
 team_frontpage: true
 
 title: Hyeonki Jeong

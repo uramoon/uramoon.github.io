@@ -1,8 +1,8 @@
 ---
 layout: about
-inline: true
+inline: false
 group: alumni
-group_rank: 3
+group_rank: 4
 team_frontpage: true
 
 title: Wooseong Park
@@ -12,8 +12,8 @@ publications: 'author^=\*Wooseong Park'
 order: 7
 
 teaser: >
-<em>previously:</em> Undergraduate Intern<br>
-<em>now:</em> Trainee at Software Maestro
+    <em>previously:</em> Undergraduate Intern<br>
+    <em>now:</em> Trainee at Software Maestro
 
 profile:
   name: Wooseong Park
@@ -25,7 +25,7 @@ profile:
   github: helpingstar
   linkedin: helpingstar
   address: >
-	Software Maestro
+    Software Maestro
 ---
 
 <em>previously:</em> Undergraduate Intern<br>

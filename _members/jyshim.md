@@ -2,12 +2,12 @@
 layout: about
 inline: true
 group: alumni
-group_rank: 3
+group_rank: 4
 team_frontpage: true
 
 title: Jaeyoon Shim
 description: Profile of Jaeyoon Shim, Undergraduate Intern at Data Mining Lab.
-lastname: Park
+lastname: Shim
 publications: 'author^=\*Jaeyoon Shim'
 order: 8
 
