@@ -12,14 +12,14 @@ publications: 'author^=\*Wooseong Park'
 order: 7
 
 teaser: >
-	<em>previously:</em> Undergraduate Intern<br>
-	<em>now:</em> Trainee at Software Maestro
+<em>previously:</em> Undergraduate Intern<br>
+<em>now:</em> Trainee at Software Maestro
 
 profile:
   name: Wooseong Park
   align: right
   image: default-profile.png
-  role: Undergraduate Intern
+  role: Alumni
   email: helpingstar (at) kw.ac.kr
   website: https://helpingstar.github.io/
   github: helpingstar
