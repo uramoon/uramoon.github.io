@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: true
-group: undergraduate interns
+group: alumni
 group_rank: 4
 team_frontpage: true
 
