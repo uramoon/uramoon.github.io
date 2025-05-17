@@ -8,7 +8,7 @@ team_frontpage: true
 title: Chaerim Park
 description: Profile of Chaerim Park, M.Sc. Student at Data Mining Lab.
 lastname: Park
-publications: "author^=*Park,Chaerim"
+publications: "author^=*Chaerim"
 order: 5
 
 teaser: >
