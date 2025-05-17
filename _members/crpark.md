@@ -1,6 +1,6 @@
 ---
 layout: about
-inline: true
+inline: false
 group: students
 group_rank: 2
 team_frontpage: true
