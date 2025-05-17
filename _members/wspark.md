@@ -8,7 +8,7 @@ team_frontpage: true
 title: Wooseong Park
 description: Profile of Wooseong Park, Undergraduate Intern at Data Mining Lab.
 lastname: Park
-publications: "author^=*Park, Wooseong"
+publications: "author^=*Wooseong Park"
 order: 7
 
 teaser: >
