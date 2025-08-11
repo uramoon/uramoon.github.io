@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: true
-group: intern
+group: interns
 group_rank: 3
 team_frontpage: true
 
