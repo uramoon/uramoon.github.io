@@ -8,7 +8,7 @@ team_frontpage: true
 title: Jehak Ha
 description: Profile of Jehak Ha, Undergraduate Intern at Data Mining Lab.
 lastname: Ha
-publications: 'author^=\*Jehak Ha'
+publications: 'author^=\*Jehak'
 order: 9
 
 teaser: >
