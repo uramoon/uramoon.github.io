@@ -8,7 +8,7 @@ team_frontpage: true
 title: Jaeyoon Shim
 description: Profile of Jaeyoon Shim, Undergraduate Intern at Data Mining Lab.
 lastname: Shim
-publications: 'author^=\*Jaeyoon'
+publications: 'author^=\*Jaeyoon Shim'
 order: 8
 
 teaser: >
