@@ -6,9 +6,9 @@ group_rank: 2
 team_frontpage: true
 
 title: Jung-Muk Hwang
-description: Profile of Jung-Muk Hwang, Undergraduate Intern at Data Mining Lab.
+description: Profile of Jung-Muk Hwang, M.Sc. Student at Data Mining Lab.
 lastname: Hwang
-publications: 'author^=\*Jung-Muk'
+publications: 'author^=\*Hwang'
 order: 6
 
 teaser: >
@@ -18,7 +18,7 @@ profile:
   name: Jung-Muk Hwang
   align: right
   image: default-profile.png
-  role: Undergraduate Intern
+  role: M.Sc. Student
   email: hwangjello (at) naver.com
   address: >
     Kwangwoon University<br />
