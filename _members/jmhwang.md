@@ -8,7 +8,7 @@ team_frontpage: true
 title: Jung-Muk Hwang
 description: Profile of Jung-Muk Hwang, Undergraduate Intern at Data Mining Lab.
 lastname: Hwang
-publications: 'author^=\*Jung-Muk Hwang'
+publications: 'author^=\*Jung-Muk'
 order: 6
 
 teaser: >
