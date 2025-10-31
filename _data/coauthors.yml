@@ -11,5 +11,5 @@
     url: /members/crpark
 
 "hwang":
-    firstname: ["Jung-Muk"]
+  - firstname: ["Jung-Muk"]
     url: /members/jmhwang
