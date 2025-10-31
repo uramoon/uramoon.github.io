@@ -8,7 +8,7 @@ team_frontpage: true
 title: Jung-Muk Hwang
 description: Profile of Jung-Muk Hwang, M.Sc. Student at Data Mining Lab.
 lastname: Hwang
-publications: "author^=*Hwang"
+publications: "author^=*Jung-Muk"
 order: 6
 
 teaser: >
