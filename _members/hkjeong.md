@@ -13,7 +13,7 @@ order: 3
 
 teaser: >
   <em>previously:</em> Undergraduate Intern<br>
-  <em>now:</em> Graduate Student at Korea University
+  <em>now:</em> LG Uplus
 
 profile:
   name: Hyeonki Jeong
