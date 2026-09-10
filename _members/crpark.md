@@ -1,8 +1,8 @@
 ---
 layout: about
-inline: false
-group: students
-group_rank: 2
+inline: true
+group: alumni
+group_rank: 4
 team_frontpage: true
 
 title: Chaerim Park
@@ -12,19 +12,17 @@ publications: "author^=*Chaerim"
 order: 5
 
 teaser: >
-  M.Sc. Student
+    <em>previously:</em> M. Sc. Student
+    <em>now:</em> DN Solutions
 
 profile:
   name: Chaerim Park
   align: right
   image: crpark-profile.png
   role: M.Sc. Student
-  email: dasapcr (at) kw.ac.kr
+  email: dasapcr (at) naver.com
   address: >
-    Kwangwoon University<br />
-    602 Saebit<br />
-    20 Kwangwoon-ro<br />
-    Nowon-gu, Seoul, Korea
+    Yonsei Severance Building
 ---
 
-M.Sc. Student
+Alumni

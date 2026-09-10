@@ -13,7 +13,7 @@ order: 2
 
 teaser: >
   <em>previously:</em> Undergraduate Intern<br>
-  <em>now:</em> Data Engineer at TmaxBI
+  <em>now:</em> TmaxBI
 
 profile:
   name: Daewook Choi
