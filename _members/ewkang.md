@@ -9,7 +9,7 @@ title: Eunwoo Kang
 description: Profile of Eunwoo Kang, Undergraduate Intern at Data Mining Lab.
 lastname: Kang
 publications: 'author^=\*Eunwoo Kang'
-order: 17
+order: 18
 
 teaser: >
     Undergraduate Intern
