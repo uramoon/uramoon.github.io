@@ -9,7 +9,7 @@ title: Jaeyoon Shim
 description: Profile of Jaeyoon Shim, Undergraduate Intern at Data Mining Lab.
 lastname: Shim
 publications: 'author^=\*Jaeyoon'
-order: 8
+order: 15
 
 teaser: >
     <em>previously:</em> Undergraduate Intern<br>

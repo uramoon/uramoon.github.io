@@ -9,7 +9,7 @@ title: Hyeonki Jeong
 description: Profile of Hyeonki Jeong, Undergraduate Intern at Data Mining Lab.
 lastname: Jeong
 publications: "author^=*Jeong"
-order: 3
+order: 12 
 
 teaser: >
   <em>previously:</em> Undergraduate Intern<br>

@@ -9,7 +9,7 @@ title: Wooseong Park
 description: Profile of Wooseong Park, Undergraduate Intern at Data Mining Lab.
 lastname: Park
 publications: "author^=*Wooseong"
-order: 7
+order: 14
 
 teaser: >
     <em>previously:</em> Undergraduate Intern<br>
