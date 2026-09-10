@@ -9,7 +9,7 @@ title: Jehak Ha
 description: Profile of Jehak Ha, Undergraduate Intern at Data Mining Lab.
 lastname: Ha
 publications: 'author^=\*Jehak Ha'
-order: 9
+order: 16 
 
 teaser: >
     Undergraduate Intern
