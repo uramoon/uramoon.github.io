@@ -25,8 +25,8 @@ profile:
   github: helpingstar
   linkedin: helpingstar
   address: >
-    Software Maestro
+    Searchdoc
 ---
 
 <em>previously:</em> Undergraduate Intern<br>
-<em>now:</em> Trainee at Software Maestro
+<em>now:</em> Searchdoc
