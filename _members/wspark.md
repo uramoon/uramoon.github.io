@@ -13,7 +13,7 @@ order: 14
 
 teaser: >
     <em>previously:</em> Undergraduate Intern<br>
-    <em>now:</em> Trainee at Software Maestro
+    <em>now:</em> Searchdoc
 
 profile:
   name: Wooseong Park
